@@ -8,7 +8,7 @@ One kind, funny fortune for a houseplant on the windowsill, as if the plant
 itself were having its future told — written by `main.ts` to
 `/output/entry.txt` as a single line of at most 120 characters.
 
-> Soon the morning sun will warm your leaves on this sill, and your keeper will swear you leaned in to listen.
+> Soon the morning sun will warm your leaves on this sill, and your keeper will swear you leaned in for the gossip.
 
 [Fortune in a Pot on make.fun](https://make.fun/bounty/u-golden-heron-44-fortune-in-a-pot-ded981e9)
 

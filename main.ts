@@ -2,9 +2,9 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 
 // One kind, funny fortune for the houseplant on the windowsill,
 // as if the plant itself were having its future told.
-// 108 characters, one line, no trailing newline.
+// 113 characters, one line, no trailing newline.
 const FORTUNE =
-  "Soon the morning sun will warm your leaves on this sill, and your keeper will swear you leaned in to listen.";
+  "Soon the morning sun will warm your leaves on this sill, and your keeper will swear you leaned in for the gossip.";
 
 // Self-check before writing: 1 to 120 characters counting code points,
 // single line, valid UTF-8, no surrounding white space.
